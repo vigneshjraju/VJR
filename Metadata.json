@@ -1,0 +1,34 @@
+[{
+  "description": "Blockchain World.", 
+  "external_url": "https://www.kba.ai", 
+  "image": "https://sapphire-adverse-hummingbird-721.mypinata.cloud/ipfs/bafkreibn6afk7pqifwkjjbkyvgey5gpggy72t2p6zoyum326bhsb5ym7lu", 
+  "name": "Hall of Fame",
+  "attributes": [ {
+      "trait_type": "Color", 
+      "value": "Blue"
+    }, 
+    {
+      "trait_type": "Object", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Surprised"
+    }
+     ]
+},
+{
+  "description": "Black & White Sea.", 
+  "external_url": "https://www.kba.ai", 
+  "image": "https://sapphire-adverse-hummingbird-721.mypinata.cloud/ipfs/bafkreibn6afk7pqifwkjjbkyvgey5gpggy72t2p6zoyum326bhsb5ym7lu", 
+  "name": "Hall of Fame",
+  "attributes": [ {
+      "trait_type": "Color", 
+      "value": "Black & White"
+    }, 
+    {
+      "trait_type": "Object", 
+      "value": "Big"
+    }
+     ]
+}]
